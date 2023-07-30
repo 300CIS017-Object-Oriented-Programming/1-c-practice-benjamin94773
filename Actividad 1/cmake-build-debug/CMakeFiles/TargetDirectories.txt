@@ -1,3 +1,0 @@
-C:/Users/benja/Desktop/1-c-practice-benjamin94773/Actividad 1/cmake-build-debug/CMakeFiles/Actividad_1.dir
-C:/Users/benja/Desktop/1-c-practice-benjamin94773/Actividad 1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/benja/Desktop/1-c-practice-benjamin94773/Actividad 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
